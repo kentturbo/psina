@@ -5,7 +5,7 @@
 
 
 #### description in english
-small script written for sorting files, it works as simple, fast and effective as possible. maybe it will need to refine your browser, if you do not use Mozilla, because this script ignores only Mozilla temporary files. installation is as simple as possible. first you download the dependencies with **pip install -r requirements.txt**, then change the variables in the .yaml file to your own, and then just run the script. the folders for pictures and other things will be created by themselves, if they do not already exist. the code is written *MAXIMALLY SIMPLE* so that I think even a beginner can make any changes to it 
+small script written for sorting files, it works as simple, fast and effective as possible. maybe it will need to refine your browser, if you do not use Mozilla, because this script ignores only Mozilla temporary files. installation is as simple as possible. first you download the dependencies with **pip install -r requirements.txt**, then change the variables in the .yaml file to your own, and then just run the script. the folders for pictures and other things will be created by themselves, if they do not already exist. the code is written *MAXIMALLY SIMPLE* so that I think even a beginner can make any changes to it.
  
 
  
